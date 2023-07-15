@@ -23,3 +23,13 @@ body {
   font-family: "Francois One";
   margin-bottom: 10px;
 }
+.nav {
+  border: 1px solid chocolate;
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.nav :hover {
+  color: aqua;
+
+}
